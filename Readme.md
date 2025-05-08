@@ -3,7 +3,7 @@
 ### Description
 
 Haskell source files to accompany 
-Charles C. Pinter's classic textbook:
+Charles C. Pinter's textbook:
 **A Book of Abstract Algebra**
 
 ### Purpose
